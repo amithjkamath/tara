@@ -1,5 +1,19 @@
----
-sd_hide_title: true
----
+Welcome to tara's documentation!
+===================================
 
-# Techniques for Automation in Radiotherapy Applications
+This is a WIP.
+
+Check out the :doc:`usage` section for further information, including
+how to :ref:`installation` the project.
+
+.. note::
+
+   This project is under active development.
+
+Contents
+--------
+
+.. toctree::
+
+   usage
+   api
