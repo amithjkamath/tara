@@ -10,8 +10,6 @@ This is a WIP.
 Check out the [intro](intro/intro.md) section for further information, including
 how to use the [fundamentalAI](fundamentalAI/fundamentalAI.md) of the project.
 
-Contents
---------
 
 ```{toctree}
 :maxdepth: 2

@@ -1,4 +1,4 @@
-API
+Medical Imaging Data and Formats
 ===
 
 .. autosummary::

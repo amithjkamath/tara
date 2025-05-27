@@ -1,4 +1,4 @@
-Usage
+Introduction to TARA
 =====
 
 .. _installation:

@@ -1,4 +1,4 @@
-API
+Fundamentals of Radiation Oncology
 ===
 
 .. autosummary::
