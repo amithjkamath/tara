@@ -17,7 +17,7 @@ extensions = [
     "sphinx.ext.autodoc",
     "sphinx.ext.autosummary",
     "sphinx.ext.intersphinx",
-    "sphinx_immaterial",
+    "sphinx-book-theme",
     "myst_parser",
 ]
 
@@ -34,7 +34,7 @@ source_suffix = [".rst", ".md"]
 
 # -- Options for HTML output
 
-html_theme = "sphinx_immaterial"
+html_theme = "sphinx-book-theme"
 
 # -- Options for EPUB output
 epub_show_urls = "footnote"
