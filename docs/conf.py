@@ -36,5 +36,11 @@ source_suffix = [".rst", ".md"]
 
 html_theme = "sphinx_book_theme"
 
+html_theme_options = {
+    "navigation_depth": 4,  # Depth of nested TOC items
+    "show_nav_level": 1,  # Show top-level items expanded
+    "collapse_navigation": True,  # Collapse subsections by default
+}
+
 # -- Options for EPUB output
 epub_show_urls = "footnote"
