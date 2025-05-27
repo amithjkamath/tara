@@ -17,7 +17,7 @@ extensions = [
     "sphinx.ext.autodoc",
     "sphinx.ext.autosummary",
     "sphinx.ext.intersphinx",
-    "sphinx-book-theme",
+    "sphinx_book_theme",
     "myst_parser",
 ]
 
