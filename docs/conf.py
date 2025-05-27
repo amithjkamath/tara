@@ -34,7 +34,7 @@ source_suffix = [".rst", ".md"]
 
 # -- Options for HTML output
 
-html_theme = "sphinx-book-theme"
+html_theme = "sphinx_book_theme"
 
 # -- Options for EPUB output
 epub_show_urls = "footnote"
