@@ -913,3 +913,8 @@ The choice of architecture depends on factors like the specific segmentation tas
 - [Attention Is All You Need (Transformer paper)](https://arxiv.org/abs/1706.03762)
 - [Recent Advances in Deep Learning for Medical Image Analysis (2022)](https://www.nature.com/articles/s42256-021-00406-0)
 - [Ethics of AI in Medical Imaging](https://www.nature.com/articles/s41591-019-0447-1)
+
+```{toctree}
+:maxdepth: 2
+:caption: Contents
+vlm

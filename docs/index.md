@@ -11,7 +11,7 @@ TARA stands for Techniques for Automation in Radiotherapy Applications is a set 
 * Relevance to Radiation Oncology: The role and potential of AI in enhancing radiation therapy workflows.​
 * Current Landscape: Review of existing AI applications in medical imaging and radiation therapy.​
 
-## [2: Fundamentals of Artificial Intelligence through Deep Learning](fundamentalAI/fundamentalAI.md)
+## [2: Fundamentals of Artificial Intelligence through Deep Learning](fundamentalAI/index.md)
 
 * Machine Learning Basics: Supervised vs. unsupervised learning, key algorithms, and model evaluation metrics.​
 * Deep Learning Introduction: Neural networks, convolutional neural networks (CNNs), and their relevance to image analysis.​
@@ -116,9 +116,8 @@ TARA stands for Techniques for Automation in Radiotherapy Applications is a set 
 ```{toctree}
 :maxdepth: 2
 :caption: Contents
-mainpage
 intro/intro
-fundamentalAI/fundamentalAI
+fundamentalAI/index
 fundamentalRO/fundamentalRO
 medicalImaging/medicalImaging
 contouring/contouring
