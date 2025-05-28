@@ -1,5 +1,4 @@
-Medical Imaging Data and Formats
-===
+# Medical Imaging Data and Formats
 
 This is test content for Medical Imaging formats and data.
 
