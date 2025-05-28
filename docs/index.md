@@ -41,7 +41,7 @@ TARA stands for Techniques for Automation in Radiotherapy Applications is a set 
 * AI-enhanced Registration Methods: Learning-based approaches for improved accuracy.​
 * Clinical Applications: Integrating multimodal imaging data for comprehensive analysis.​
 
-### 7: [AI for Treatment Planning](treatmentPlanning/treatmentPlanning.md)
+### [7: AI for Treatment Planning](treatmentPlanning/treatmentPlanning.md)
 
 * Automated Treatment Planning: Leveraging AI for plan optimization and dose calculation.​
   * [IMRT](/glossary/#IMRT), [VMAT](/glossary/#VMAT) and others.
