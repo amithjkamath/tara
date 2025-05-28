@@ -1,6 +1,6 @@
-# 4: AI for Image Contouring
+# 5: AI for Image Contouring
 
-- [4: AI for Image Contouring](#4-ai-for-image-contouring)
+- [5: AI for Image Contouring](#4-ai-for-image-contouring)
   - [Contouring Fundamentals](#contouring-fundamentals)
     - [Binary vs. Multi-class Segmentation](#binary-vs-multi-class-segmentation)
     - [Semantic vs. Instance Segmentation](#semantic-vs-instance-segmentation)
