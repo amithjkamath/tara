@@ -1,4 +1,4 @@
-# Medical Imaging Modalities and Storage File Types in Radiation Oncology
+# 4. Medical Imaging Modalities and Storage File Types
 
 ## How to Use This Guide
 

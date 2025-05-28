@@ -1,5 +1,9 @@
 # 2: Fundamentals of Artificial Intelligence through Deep Learning
 
+## How to Use This Guide
+
+This guide is designed for clinicians, researchers, and students interested in the fundamentals of deep learning, with a focus on applications in radiation oncology. Each section builds on the previous, starting from traditional machine learning and progressing to advanced deep learning architectures.
+
 - [2: Fundamentals of Artificial Intelligence through Deep Learning](#2-fundamentals-of-artificial-intelligence-through-deep-learning)
   - [How to Use This Guide](#how-to-use-this-guide)
   - [The Perceptron Model](#the-perceptron-model)

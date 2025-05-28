@@ -5,10 +5,6 @@ Techniques for Automation in Radiotherapy Applications
 
 TARA stands for Techniques for Automation in Radiotherapy Applications is a set of notes on AI in Radiation Oncology. This is a WIP (Work-In-Progress): this message will be removed once sufficient progress has been made. 
 
-## How to Use This Guide
-
-This guide is designed for clinicians, researchers, and students interested in the fundamentals of deep learning, with a focus on applications in radiation oncology. Each section builds on the previous, starting from traditional machine learning and progressing to advanced deep learning architectures.
-
 ### [1: Introduction](intro/intro.md)
 
 * Overview of AI: Definition, history, and evolution of AI in healthcare.​
@@ -21,29 +17,29 @@ This guide is designed for clinicians, researchers, and students interested in t
 * Deep Learning Introduction: Neural networks, convolutional neural networks (CNNs), and their relevance to image analysis.​
 * Tools and Frameworks: Introduction to popular AI development tools and platforms.​
 
-### [3: Medical Imaging in Radiation Oncology](medicalImaging/medicalImaging.md)
+### [3: Fundamentals of Radiation Oncology](fundamentalRO/fundamentalRO.md)
+
+* Background: Radiation Physics in Medicine.
+* Radiobiology: Treating cancers with high-energy radiation.
+* Evolution of Radiation Oncology: History, current state, and future.
+
+### [4: Medical Imaging in Radiation Oncology](medicalImaging/medicalImaging.md)
 
 * Imaging Modalities: CT, MRI, PET, and their roles in radiation therapy planning.​
 * Image Acquisition and Reconstruction: Understanding the technical aspects and challenges.​
 * Image Preprocessing Techniques: Noise reduction, normalization, and enhancement methods.​
 
-### [4: AI for Contouring](contouring/contouring.md)
+### [5: AI for Contouring](contouring/contouring.md)
 
 * Contouring Techniques: Traditional methods vs. AI-driven approaches.​
 * Deep Learning for Contouring: Application of CNNs and U-Net architectures.​
 * Case Studies: Automated tumor and organ-at-risk delineation.​
 
-## 5: AI in Image Registration and Fusion
+## 6: AI in Image Registration and Fusion
 
 * Concepts of Image Registration: Aligning images from different modalities or time points.​
 * AI-enhanced Registration Methods: Learning-based approaches for improved accuracy.​
 * Clinical Applications: Integrating multimodal imaging data for comprehensive analysis.​
-
-## 6: Radiomics and Feature Extraction
-
-* Introduction to Radiomics: Quantitative analysis of imaging features.​
-* Feature Extraction and Selection: Techniques for identifying relevant imaging biomarkers.​
-* Predictive Modeling: Using radiomic features for outcome prediction and personalized therapy.​
 
 ### 7: [AI for Treatment Planning](treatmentPlanning/treatmentPlanning.md)
 
