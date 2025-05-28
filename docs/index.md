@@ -1,9 +1,9 @@
 Techniques for Automation in Radiotherapy Applications
 ===================================
 
-# Introduction to TARA
+This is a WIP (Work-In-Progress): this message will be removed once sufficient progress has been made. 
 
-TARA stands for Techniques for Automation in Radiotherapy Applications is a set of notes on AI in Radiation Oncology. This is a WIP (Work-In-Progress): this message will be removed once sufficient progress has been made. 
+TARA stands for Techniques for Automation in Radiotherapy Applications is a set of notes on AI in Radiation Oncology.
 
 ## [1: Introduction](intro/intro.md)
 
@@ -35,7 +35,7 @@ TARA stands for Techniques for Automation in Radiotherapy Applications is a set 
 * Deep Learning for Contouring: Application of CNNs and U-Net architectures.​
 * Case Studies: Automated tumor and organ-at-risk delineation.​
 
-## 6: AI in Image Registration and Fusion
+## [6: AI in Image Registration and Fusion](registration/registration.md)
 
 * Concepts of Image Registration: Aligning images from different modalities or time points.​
 * AI-enhanced Registration Methods: Learning-based approaches for improved accuracy.​
@@ -44,23 +44,23 @@ TARA stands for Techniques for Automation in Radiotherapy Applications is a set 
 ## [7: AI for Treatment Planning](treatmentPlanning/treatmentPlanning.md)
 
 * Automated Treatment Planning: Leveraging AI for plan optimization and dose calculation.​
-  * [IMRT](/glossary/#IMRT), [VMAT](/glossary/#VMAT) and others.
+  * IMRT, VMAT and others.
 * Knowledge-based Planning: Utilizing historical data to inform new treatment plans.​
 * Case Studies: Examples of AI-driven treatment planning systems.​
 
-## 8: AI for Quality Assurance and Safety
+## [8: AI for Quality Assurance and Safety](qa/qa.md)
 
 * Quality Assurance Processes: Ensuring accuracy and safety in radiation therapy.​
 * AI Applications in QA: Automated error detection and workflow optimization.​
 * Regulatory Considerations: Compliance with standards and guidelines for AI tools.​
 
-## 9: Validation and Evaluation of AI Models
+## [9: Validation and Evaluation of AI Models](validation/validation.md)
 
 * Performance Metrics: Assessing accuracy, sensitivity, specificity, and robustness.​
 * Clinical Validation: Translating AI models from research to practice.​
 * Continuous Monitoring: Post-deployment evaluation and model updating.​
 
-## 10: Integration of AI into Clinical Workflow
+## [10: Integration of AI into Clinical Workflow](workflow/workflow.md)
 
 * Workflow Analysis: Identifying points of integration for AI tools.​
 * User Training and Acceptance: Strategies for effective implementation and adoption by clinical staff.​
