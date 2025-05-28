@@ -119,7 +119,7 @@ TARA stands for Techniques for Automation in Radiotherapy Applications is a set 
 mainpage
 intro/intro
 fundamentalAI/fundamentalAI
-medicalImaging/medicalImaging
 fundamentalRO/fundamentalRO
+medicalImaging/medicalImaging
 contouring/contouring
 treatmentPlanning/treatmentPlanning
