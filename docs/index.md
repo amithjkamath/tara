@@ -1,13 +1,24 @@
 Techniques for Automation in Radiotherapy Applications
 ===================================
 
-.. note::
-
-   This project is under active development.
+```{toctree}
+:maxdepth: 2
+:caption: Contents
+mainpage
+intro/intro
+fundamentalAI/fundamentalAI
+medicalImaging/medicalImaging
+fundamentalRO/fundamentalRO
+contouring/contouring
+treatmentPlanning/treatmentPlanning
 
 # Introduction to TARA
 
 TARA stands for Techniques for Automation in Radiotherapy Applications is a set of notes on AI in Radiation Oncology. This is a WIP (Work-In-Progress): this message will be removed once sufficient progress has been made. 
+
+## How to Use This Guide
+
+This guide is designed for clinicians, researchers, and students interested in the fundamentals of deep learning, with a focus on applications in radiation oncology. Each section builds on the previous, starting from traditional machine learning and progressing to advanced deep learning architectures.
 
 ### [1: Introduction](intro/intro.md)
 
@@ -27,7 +38,7 @@ TARA stands for Techniques for Automation in Radiotherapy Applications is a set 
 * Image Acquisition and Reconstruction: Understanding the technical aspects and challenges.​
 * Image Preprocessing Techniques: Noise reduction, normalization, and enhancement methods.​
 
-### 4: AI for Contouring
+### [4: AI for Contouring](contouring/contouring.md)
 
 * Contouring Techniques: Traditional methods vs. AI-driven approaches.​
 * Deep Learning for Contouring: Application of CNNs and U-Net architectures.​
@@ -45,7 +56,7 @@ TARA stands for Techniques for Automation in Radiotherapy Applications is a set 
 * Feature Extraction and Selection: Techniques for identifying relevant imaging biomarkers.​
 * Predictive Modeling: Using radiomic features for outcome prediction and personalized therapy.​
 
-### 7: AI for Treatment Planning
+### 7: [AI for Treatment Planning](treatmentPlanning/treatmentPlanning.md)
 
 * Automated Treatment Planning: Leveraging AI for plan optimization and dose calculation.​
   * [IMRT](/glossary/#IMRT), [VMAT](/glossary/#VMAT) and others.
@@ -116,13 +127,3 @@ TARA stands for Techniques for Automation in Radiotherapy Applications is a set 
 [Symposium on Practical AI in Radiation Oncology](https://www.medschool.umaryland.edu/radonc/education/educational-courses--events/symposium-on-practical-ai-in-radiation-oncology/)
 
 [National Cancer Institute workshop on AI in Radiation Oncology](https://pmc.ncbi.nlm.nih.gov/articles/PMC7293478/)
-
-
-```{toctree}
-:maxdepth: 2
-:caption: Contents
-mainpage
-intro/intro
-fundamentalAI/fundamentalAI
-medicalImaging/medicalImaging
-fundamentalRO/fundamentalRO
