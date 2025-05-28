@@ -122,4 +122,8 @@ fundamentalAI/fundamentalAI
 fundamentalRO/fundamentalRO
 medicalImaging/medicalImaging
 contouring/contouring
+registration/registration
 treatmentPlanning/treatmentPlanning
+qa/qa
+validation/validation
+workflow/workflow
