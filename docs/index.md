@@ -5,31 +5,31 @@ Techniques for Automation in Radiotherapy Applications
 
 TARA stands for Techniques for Automation in Radiotherapy Applications is a set of notes on AI in Radiation Oncology. This is a WIP (Work-In-Progress): this message will be removed once sufficient progress has been made. 
 
-### [1: Introduction](intro/intro.md)
+## [1: Introduction](intro/intro.md)
 
 * Overview of AI: Definition, history, and evolution of AI in healthcare.​
 * Relevance to Radiation Oncology: The role and potential of AI in enhancing radiation therapy workflows.​
 * Current Landscape: Review of existing AI applications in medical imaging and radiation therapy.​
 
-### [2: Fundamentals of Artificial Intelligence through Deep Learning](fundamentalAI/fundamentalAI.md)
+## [2: Fundamentals of Artificial Intelligence through Deep Learning](fundamentalAI/fundamentalAI.md)
 
 * Machine Learning Basics: Supervised vs. unsupervised learning, key algorithms, and model evaluation metrics.​
 * Deep Learning Introduction: Neural networks, convolutional neural networks (CNNs), and their relevance to image analysis.​
 * Tools and Frameworks: Introduction to popular AI development tools and platforms.​
 
-### [3: Fundamentals of Radiation Oncology](fundamentalRO/fundamentalRO.md)
+## [3: Fundamentals of Radiation Oncology](fundamentalRO/fundamentalRO.md)
 
 * Background: Radiation Physics in Medicine.
 * Radiobiology: Treating cancers with high-energy radiation.
 * Evolution of Radiation Oncology: History, current state, and future.
 
-### [4: Medical Imaging in Radiation Oncology](medicalImaging/medicalImaging.md)
+## [4: Medical Imaging in Radiation Oncology](medicalImaging/medicalImaging.md)
 
 * Imaging Modalities: CT, MRI, PET, and their roles in radiation therapy planning.​
 * Image Acquisition and Reconstruction: Understanding the technical aspects and challenges.​
 * Image Preprocessing Techniques: Noise reduction, normalization, and enhancement methods.​
 
-### [5: AI for Contouring](contouring/contouring.md)
+## [5: AI for Contouring](contouring/contouring.md)
 
 * Contouring Techniques: Traditional methods vs. AI-driven approaches.​
 * Deep Learning for Contouring: Application of CNNs and U-Net architectures.​
@@ -41,7 +41,7 @@ TARA stands for Techniques for Automation in Radiotherapy Applications is a set 
 * AI-enhanced Registration Methods: Learning-based approaches for improved accuracy.​
 * Clinical Applications: Integrating multimodal imaging data for comprehensive analysis.​
 
-### [7: AI for Treatment Planning](treatmentPlanning/treatmentPlanning.md)
+## [7: AI for Treatment Planning](treatmentPlanning/treatmentPlanning.md)
 
 * Automated Treatment Planning: Leveraging AI for plan optimization and dose calculation.​
   * [IMRT](/glossary/#IMRT), [VMAT](/glossary/#VMAT) and others.
